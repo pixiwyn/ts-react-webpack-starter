@@ -1,5 +1,7 @@
 # Typescript + React Webpack Starter Template
 
+Works in Internet Explorer 11
+
 ## Getting Started
 
 ### Install Dependencies
